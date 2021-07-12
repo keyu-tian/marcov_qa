@@ -1,0 +1,13 @@
+pytorch_pretrained_bert
+pytorch-nlp
+transformers
+tqdm
+easydict
+retrying
+jieba
+nltk
+sentencepiece
+sklearn
+pkuseg
+gensim
+

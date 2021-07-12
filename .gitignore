@@ -12,3 +12,6 @@ store
 **/*.rar
 *.log
 *.out
+
+exp-/
+data
