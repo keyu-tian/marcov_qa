@@ -1,0 +1,14 @@
+.idea
+.vscode
+.DS_Store
+__pycache__/
+frontend
+migrations
+store
+*.py[cod]
+*$py.class
+
+**/*.zip
+**/*.rar
+*.log
+*.out
